@@ -2,8 +2,8 @@ import mido
 import os
 
 
-format_1_directory_path = './raw_data/midi_format_1/'
-format_0_directory_path = './raw_data/midi_format_0_converted/'
+format_1_directory_path = '../raw_data/midi_format_1/'
+format_0_directory_path = '../raw_data/midi_format_0_converted/'
 new_format = 'format0_'
 
 
