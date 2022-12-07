@@ -1,2 +1,5 @@
 raw_data/
 training_checkpoints/
+.ipynb_checkpoints/
+example.midi
+output.mid
