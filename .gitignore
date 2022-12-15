@@ -1,3 +1,7 @@
 raw_data/
 training_checkpoints/
 .ipynb_checkpoints/
+notes_pickles/
+model_checkpoints_weights/
+downloaded_files/
+back_up/
