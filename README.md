@@ -1,4 +1,4 @@
-# Purpose of the project and team members 
+## Purpose of the project and team members 
 This project aims to generate music with Chopin style. 
 Contributors to the project are :
 * Sina BEHDADNIA
@@ -6,7 +6,7 @@ Contributors to the project are :
 * Zoé KOLAN 
 * Aurélie RAYMOND 'https://github.com/aeraymd'
 
-# Structure of the project 
+## Structure of the project 
 Three models were tested during the projects, but only two gave satisfactory results.
 * GPT (most successful results) ==> [notebook_name]
 * LSTM model with attention layers ==> [notebook_name]
