@@ -20,4 +20,4 @@ Other directories include :
 * subfolders for exploratory work
 * function to convert MIDI files with two channels (left hand/right hand in the case of piano music) into one channel 
 
-[LINK TO YOUTUBE PRESENTATION TO ADD]
+[Watch the presentation HERE](https://www.youtube.com/watch?v=3Pepuk1x-Jw)
