@@ -1,5 +1,5 @@
 ## Purpose of the project and team members 
-This project aims to generate music with Chopin style. 
+This project aims to generate classical piano music in the style of Frederic Chopin. 
 Contributors to the project are :
 * Sina BEHDADNIA 'https://github.com/sinabehdadnia'
 * Anh Dao HO 'https://github.com/ChiiDao'
